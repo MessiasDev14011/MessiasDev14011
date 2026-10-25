@@ -1,27 +1,26 @@
-<h2 align="left">Hey, I'm Miguel. Welcome!</h2>
+<h2 align="left">Hi, I'm Miguel. Welcome to my profile!</h2>
 
-<h3>Network/Infrastructure professional transitioning into offensive cybersecurity. </h3>
+<p align="left">Network/Infrastructure professional transitioning into offensive cybersecurity. </p>
+<p align="left">Currently studying Cybersecurity and completing the TryHackMe Jr Penetration Tester path. </p>
 
-<h3>Currently studying Cybersecurity and completing the TryHackMe Jr Penetration Tester path.</h3>
+
 
 <table>
   <tr>
     <td>
-      <a href="https://github.com/v1ih">
+      <a href="https://github.com/MessiasDev14011">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MessiasDev14011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
       </a>
     </td>
     <td>
-      <a href="https://github.com/v1ih">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MessiasDev14011&layout=compact&langs_count=6&theme=tokyonight"/>
-      </a>
+      <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVkZHk1ZXV6aDd4MXl6a3AwY2RuY3h5cXk0dWhkdnJqbG9zY3M2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
     </td>
   </tr>
 </table>
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVkZHk1ZXV6aDd4MXl6a3AwY2RuY3h5cXk0dWhkdnJqbG9zY3M2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
+
 
 ### 🛠️ Technologies and Skills
 
@@ -38,14 +37,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
 
 ###
 
 <div> 
   <a href="mailto:messias.dev14011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!--<a href="https://www.linkedin.com/in/laviniaferraz-v1ih/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
 </div>
 
 ###
