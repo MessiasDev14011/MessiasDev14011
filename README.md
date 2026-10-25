@@ -1,6 +1,8 @@
 <h2 align="left">Hey, I'm Miguel. Welcome!</h2>
 
-### Não esqueça de mudar os links usando o seu user neles.
+<h3>Network/Infrastructure professional transitioning into offensive cybersecurity. </h3>
+
+<h3>Currently studying Cybersecurity and completing the TryHackMe Jr Penetration Tester path.</h3>
 
 <table>
   <tr>
