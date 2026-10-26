@@ -22,15 +22,15 @@
 
 
 
-<table align="center">
-  <tr>
-    <td>
+<table align="center" decoration=none>
+  <tr decoration=none>
+    <td decoration=none>
       <a href="https://github.com/MessiasDev14011">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MessiasDev14011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
       </a>
     </td>
     <td>
-      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVkZHk1ZXV6aDd4MXl6a3AwY2RuY3h5cXk0dWhkdnJqbG9zY3M2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif"  />
+      <img src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVkZHk1ZXV6aDd4MXl6a3AwY2RuY3h5cXk0dWhkdnJqbG9zY3M2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif](https://giphy.com/gifs/script-kiddie-kitty-P8ef3Dkynk0xLx1h1T)"  />
     </td>
   </tr>
 </table>
