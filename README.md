@@ -13,6 +13,7 @@
 ⚡ Current Focus
 
 • Offensive Security: Completing the TryHackMe Jr Penetration Tester path.
+
 • Continuous Learning: Deepening knowledge in exploit development, web app pentesting, and network security assessments.
 
 </details>
