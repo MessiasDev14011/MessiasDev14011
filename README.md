@@ -22,11 +22,11 @@
 
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/MessiasDev14011">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=MessiasDev14011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" style="vertical-align: middle; margin-right: 10px;"/>
   </a>
-  <img height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRpYnZkNTZucWRjZGYwbTIwY2RjOGEyNWRseTZhemZsNmdxaWg0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" alt="Coding Cat">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRpYnZkNTZucWRjZGYwbTIwY2RjOGEyNWRseTZhemZsNmdxaWg0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P8ef3Dkynk0xLx1h1T/giphy.gif" alt="Coding Cat">
 </div>
 
 ###
