@@ -65,6 +65,9 @@
 * **[TryHackMe - Internal Room Writeup](https://github.com/MessiasDev14011/cybersecurity-portfolio/tree/main/tryhackme/hard/Internal)** — penetration testing lab focused on web exploitation, privilege escalation, pivoting and docker
 * **[TryHackMe - Daily Bugle Room Writeup](https://github.com/MessiasDev14011/cybersecurity-portfolio/tree/main/tryhackme/hard/Daily%20Bugle)** — penetration-testing walkthrough covering Joomla SQL injection, password cracking, reverse-shell execution, lateral movement, and Linux privilege escalation.
 
+#### 📝 **[Cybersecurity Portfolio & Others Writeups](https://github.com/MessiasDev14011/cybersecurity-portfolio)**
+
+
 
 
 
