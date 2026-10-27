@@ -62,7 +62,8 @@
 * **[TryHackMe - Daily Bugle Room Writeup](https://github.com/MessiasDev14011/cybersecurity-portfolio/tree/main/tryhackme/hard/Daily%20Bugle)** — penetration-testing walkthrough covering Joomla SQL injection, password cracking, reverse-shell execution, lateral movement, and Linux privilege escalation.
 
 #### 💻 Development & Tools
-* **[Python Port Scan](https://github.com/MessiasDev14011/Portscan/tree/main)**
+* **[Python Port Scan](https://github.com/MessiasDev14011/Portscan/tree/main)** — A lightweight, multithreaded TCP port scanner built with Python
+
 
 <div> 
   <a href="mailto:messias.dev14011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
