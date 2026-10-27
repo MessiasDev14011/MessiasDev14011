@@ -6,7 +6,7 @@
 
 💬 WHO AM I?
 
-• I am a Network & Infrastructure professional transitioning into Offensive Cybersecurity. Currently working as a NOC Operator, I bridge the gap between keeping networks stable and understanding how to break into them. At 21, based in Brazil and fluent in English, I combine a solid foundation in infrastructure with modern programming and pentesting methodologies to identify and mitigate critical vulnerabilities.
+• I am a Network & Infrastructure professional transitioning into Offensive Cybersecurity. Currently working as a NOC Analyst, I bridge the gap between keeping networks stable and understanding how to break into them. At 21, based in Brazil and fluent in English, I combine a solid foundation in infrastructure with modern programming and pentesting methodologies to identify and mitigate critical vulnerabilities.
  
 
   
