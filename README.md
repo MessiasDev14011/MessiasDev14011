@@ -62,7 +62,8 @@
 
 ### 📂 Featured Projects & Writeups
 * **[TryHackMe - Ultratech Room Writeup](https://github.com/MessiasDev14011/cybersecurity-portfolio/tree/main/tryhackme/medium/ultratech)** — Grey-box penetration testing lab focused on web exploitation, command injection, credential extraction and Docker privilege escalation.
-* **[TryHackMe - Internal Room Writeup](https://github.com/MessiasDev14011/cybersecurity-portfolio/tree/main/tryhackme/hard/Internal)** — penetration testing lab focused on web exploitation, privilege escalation, pivoting and docker
+* **[TryHackme - RazorBlack Writeup](https://github.com/MessiasDev14011/cybersecurity-portfolio/tree/main/tryhackme/medium/RazorBlack)** — Active Directory penetration testing room simulating a domain compromise against raz0rblack.thm.
+* **[TryHackMe - Internal Room Writeup](https://github.com/MessiasDev14011/cybersecurity-portfolio/tree/main/tryhackme/hard/Internal)** — penetration testing lab focused on web exploitation, privilege escalation, pivoting and docker.
 * **[TryHackMe - Daily Bugle Room Writeup](https://github.com/MessiasDev14011/cybersecurity-portfolio/tree/main/tryhackme/hard/Daily%20Bugle)** — penetration-testing walkthrough covering Joomla SQL injection, password cracking, reverse-shell execution, lateral movement, and Linux privilege escalation.
 
 #### 📝 **[Cybersecurity Portfolio & Others Writeups](https://github.com/MessiasDev14011/cybersecurity-portfolio)**
