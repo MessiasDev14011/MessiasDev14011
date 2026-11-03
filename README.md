@@ -61,6 +61,7 @@
 
 
 ### 📂 Featured Projects & Writeups
+* **[TryHackMe - Enterprise Room Writeup](https://github.com/MessiasDev14011/cybersecurity-portfolio/blob/main/tryhackme/hard/Enterprise/README.md)** — Active Directory penetration test against a corporate domain controller, chaining OSINT, source-control credential leakage, Kerberoasting, and a service-binary hijack for full domain compromise.
 * **[TryHackMe - Ultratech Room Writeup](https://github.com/MessiasDev14011/cybersecurity-portfolio/tree/main/tryhackme/medium/ultratech)** — Grey-box penetration testing lab focused on web exploitation, command injection, credential extraction and Docker privilege escalation.
 * **[TryHackme - RazorBlack Writeup](https://github.com/MessiasDev14011/cybersecurity-portfolio/tree/main/tryhackme/medium/RazorBlack)** — Active Directory penetration testing room simulating a domain compromise against raz0rblack.thm.
 * **[TryHackMe - Internal Room Writeup](https://github.com/MessiasDev14011/cybersecurity-portfolio/tree/main/tryhackme/hard/Internal)** — penetration testing lab focused on web exploitation, privilege escalation, pivoting and docker.
